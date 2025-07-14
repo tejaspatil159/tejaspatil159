@@ -5,11 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=tejaspatil159&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspatil159" />
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tejaspatil159&theme=algolia&column=3&margin-w=15&margin-h=15" alt="tejaspatil159 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tejaspatil159&theme=algolia&column=6&margin-w=10&margin-h=10" alt="tejaspatil159 trophies" />
   </a> 
 </p>
+
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
