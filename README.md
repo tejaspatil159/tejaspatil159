@@ -12,7 +12,7 @@
 </p>
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="90%" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
 
 - 🌱 I’m currently learning **Angular, Ionic, Bootstrap**
 
